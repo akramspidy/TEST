@@ -116,20 +116,17 @@
         "max_width": true
       }
     },
-    "background-image-text": {
-      "type": "background-image-text",
+    "featured_collection_9tJcbW": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "subtitle": "Impressive",
-        "title": "About your brand",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-        "button_label": "",
-        "button_link": "",
-        "layout": "left",
-        "height": 550,
-        "framed": false,
-        "parallax": false,
-        "parallax_direction": "top",
-        "lazyload_images": true
+        "title": "COMBINEER EN ONTVANG 15% EXTRA KORTING",
+        "home_featured_products": "dresses",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
       }
     },
     "text-and-image": {
@@ -238,7 +235,7 @@
   "order": [
     "main",
     "sub",
-    "background-image-text",
+    "featured_collection_9tJcbW",
     "text-and-image",
     "text-and-image2",
     "testimonials",
