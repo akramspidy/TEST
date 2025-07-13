@@ -43,6 +43,19 @@
         "lazyload_images": true
       }
     },
+    "featured_collection_eUDkEC": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "dresses",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -64,6 +77,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -244,7 +258,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured collection",
-        "home_featured_products": "",
+        "home_featured_products": "dresses",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
@@ -297,6 +311,7 @@
   },
   "order": [
     "slideshow",
+    "featured_collection_eUDkEC",
     "rich-text",
     "promo-grid",
     "featured-collections",
