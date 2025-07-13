@@ -150,26 +150,6 @@
         "lazyload_images": true
       }
     },
-    "text-and-image2": {
-      "type": "text-and-image",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "About your brand",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -214,6 +194,62 @@
         "color_text": "#1c1d1d"
       }
     },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/freepik__a-blonde-52yearold-caucasian-woman-in-her-brightly__36233_540x_1.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "30 dagen retour garantie",
+        "text": "<p>We houden van onze producten en we weten zeker dat jij ze net zo geweldig vindt als wij! Daarom bieden we een risicovrije<strong>30 dagen geld-terug garantie.</strong>Als je niet tevreden bent met ons product, krijg je je<strong>geld terug</strong>.<br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_3F8Wrm": {
+      "type": "faq",
+      "blocks": {
+        "question_UVQRzi": {
+          "type": "question",
+          "settings": {
+            "title": "Welke maat moet ik kiezen?",
+            "text": "<p>Bij elk product vind je een maattabel die je helpt de juiste maat te kiezen. Twijfel je? Dan adviseer ik om een maat groter te nemen of contact met me op te nemen voor persoonlijk advies.</p>"
+          }
+        },
+        "question_q3U7wg": {
+          "type": "question",
+          "settings": {
+            "title": "Hoe lang duurt de levering?",
+            "text": "<p>Bestellingen worden binnen 48 uur verzonden, afhankelijk van je locatie. Zodra je bestelling is verzonden, ontvang je een track & trace-code.</p>"
+          }
+        },
+        "question_yP3Lwk": {
+          "type": "question",
+          "settings": {
+            "title": "Hoe kan ik mijn bestelling volgen?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_UVQRzi",
+        "question_q3U7wg",
+        "question_yP3Lwk"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "Meest gestelde vragen"
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -238,8 +274,9 @@
     "sub",
     "featured_collection_9tJcbW",
     "text-and-image",
-    "text-and-image2",
     "testimonials",
+    "text-and-image2",
+    "faq_3F8Wrm",
     "product-recommendations",
     "recently-viewed",
     "collection-return"
