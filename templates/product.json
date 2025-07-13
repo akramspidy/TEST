@@ -133,7 +133,7 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/Amsterdam_2_540x_1.png",
-        "image_mask": "none",
+        "image_mask": "square",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Een hartelijk afscheid",
