@@ -121,7 +121,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "COMBINEER EN ONTVANG 15% EXTRA KORTING",
-        "home_featured_products": "dresses",
+        "home_featured_products": "damen-kleider",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
