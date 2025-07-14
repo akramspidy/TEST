@@ -308,7 +308,7 @@
   },
   "products": {
     "general": {
-      "color_swatch_trigger": "Kleur",
+      "color_swatch_trigger": "Color",
       "size_trigger": "Size",
       "size_chart": "Size chart",
       "save_html": "Save {{ saved_amount }}",
